@@ -41,7 +41,7 @@ function App() {
   return (
     <>
       {/* <Router> */}
-        <Navbar title="Opration On Text" mode={mode} toggleMode={toggleMode} />
+        <Navbar title="Text Utilities" mode={mode} toggleMode={toggleMode} />
         <Alert alert={alert} mode={mode} />
         <div className="container my-3">
 
